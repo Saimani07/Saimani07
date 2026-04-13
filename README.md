@@ -1,49 +1,114 @@
-# 👋 Hi there, I'm Sai Manikanta!
+<!-- 🌌 PREMIUM HEADER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=SAI%20MANIKANTA&fontSize=55&fontColor=00C6FF&animation=fadeIn"/>
+</div>
 
-### 🚀 Welcome to my GitHub Profile
-
-- 👨‍💻 GitHub Username: **Saimani07**
-- 🎓 Student | Tech Enthusiast
-- 💡 Interested in **AI, Web Development, and Problem Solving**
-- 🌱 Currently learning **Data Structures, Algorithms, and Full Stack Development**
-
----
-
-## 🔧 Technologies & Tools
-
-- 💻 Languages: Java, C++, Python  
-- 🌐 Web: HTML, CSS, JavaScript  
-- 🛠 Tools: Git, GitHub, VS Code  
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=800&color=00C6FF&center=true&vCenter=true&width=750&lines=Hi+👋+I'm+Sai+Manikanta;AI+%7C+Full+Stack+%7C+DSA;I+Build+Smart+Things+🚀;Future+Software+Engineer"/>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## 🧑‍💻 About Me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Saimani07&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saimani07&layout=compact&theme=radical)
-
----
-
-## 📂 Projects
-
-- 🔹 AI-based Projects  
-- 🔹 Web Development Projects  
-- 🔹 Data Structures & Algorithms Practice  
+```yaml
+👨‍💻 Name      : Sai Manikanta
+🔗 Username  : Saimani07
+🎯 Role      : Developer & Student
+💡 Interests : AI • Web Dev • Problem Solving
+🌍 Location  : India 🇮🇳
+```
 
 ---
 
-## 📫 Connect with Me
+## ⚡ Current Focus
 
-- 📧 Email: your-email@example.com  
-- 🔗 LinkedIn: https://linkedin.com/in/your-profile  
-
----
-
-## ✨ Fun Fact
-
-> I love building projects and exploring new technologies 🚀
+- 🚀 Building real-world **AI + Web Projects**
+- 📚 Mastering **Data Structures & Algorithms**
+- 🌱 Learning **Full Stack Development**
+- 🎯 Goal: Crack top tech companies
 
 ---
 
-⭐️ *Feel free to check out my repositories and give a star if you like them!*
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,html,css,js,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Saimani07&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saimani07&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Saimani07&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Featured Work
+
+<div align="center">
+
+✨ AI Projects • 🌐 Web Apps • 📊 DSA Solutions  
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/your-profile">
+  <img src="https://img.shields.io/badge/LinkedIn-00C6FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:your-email@example.com">
+  <img src="https://img.shields.io/badge/Email-00C6FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+## 💭 Dev Philosophy
+
+<div align="center">
+
+> ⚡ *"Consistency beats talent. Code every day."*
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ **Thanks for visiting! Let's build something amazing 🚀**
+
+</div>
