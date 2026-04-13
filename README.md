@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:8A2BE2&height=220&section=header&text=G%20Sai%20Manikanta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
-<h3 align="center">⚡ Student • Developer • AI Enthusiast ⚡</h3>
+<h3 align="center">⚡ Student • Developer • Cybersecurity Enthusiast⚡</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+Digital+Universe;Full+Stack+Developer;AI+Explorer;Problem+Solver;Code.+Create.+Innovate." />
