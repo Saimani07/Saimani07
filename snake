@@ -12,7 +12,7 @@ jobs:
       - name: Generate Snake SVG
         uses: Platane/snk@v3
         with:
-          github_user_name: Saimani07
+          github_user_name: saimani07
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?color_snake=#00ff9c&color_dots=#161b22,#00442a,#006d35,#00a64d,#39d353
