@@ -32,7 +32,7 @@
   <a href="https://github.com/Saimani07">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF"/>
   </a>
-  <a href="mailto:saimanikanta.dev@gmail.com">
+  <a href="gurramsai2007@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF"/>
   </a>
 </p>
