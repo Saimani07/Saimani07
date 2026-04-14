@@ -181,7 +181,7 @@ class SaiManikanta:
 
 <td width="50%" valign="top">
 
-### 🤖 [AI Chat Assistant](https://github.com/Saimani07/AI_STUDY_ASSISTANT.git)
+### 🤖 [AI Study Assistant](https://github.com/Saimani07/AI_STUDY_ASSISTANT.git)
 > An intelligent conversational agent powered by cutting-edge LLM APIs with context-aware memory, multi-turn dialogue, and a sleek React UI.
 
 ![Python](https://img.shields.io/badge/-Python-00F7FF?style=flat-square&logo=python&logoColor=0D1117)
