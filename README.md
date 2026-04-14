@@ -314,7 +314,6 @@ fun_fact: >
 
 ## 👀 Profile Visitors
 
-[![Visitor Count](https://profile-counter.glitch.me/Saimani07/count.svg)](https://github.com/Saimani07)
 
 <br/>
 
