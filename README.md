@@ -146,8 +146,6 @@ class SaiManikanta:
 
 <br/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saimani07&layout=donut&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&border_radius=12&langs_count=8" />
-
 </div>
 
 <br/>
