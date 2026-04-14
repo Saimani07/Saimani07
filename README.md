@@ -196,8 +196,6 @@ class SaiManikanta:
 
 > 🤖 Building a ChatGPT Clone — AI-powered conversational platform with modern UI, real-time interaction, and security-focused architecture.
 
-🔗 https://github.com/Saimani07
-
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-00F7FF?style=for-the-badge&logo=nextdotjs&logoColor=0D1117"/>
   <img src="https://img.shields.io/badge/TailwindCSS-8A2BE2?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
