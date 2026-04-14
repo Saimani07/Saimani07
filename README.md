@@ -318,7 +318,7 @@ fun_fact: >
 
 <br/>
 
-![Views](https://komarev.com/ghpvc/?username=Saimani07&style=for-the-badge&color=00F7FF&label=PROFILE+VIEWS&base=1000)
+![Views](https://komarev.com/ghpvc/?username=Saimani07&style=for-the-badge&color=00F7FF)
 
 </div>
 
