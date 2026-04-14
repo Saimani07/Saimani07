@@ -22,13 +22,6 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║               > INITIALIZING DEVELOPER PROFILE...           ║
-║               > LOADING: G Sai Manikanta — @Saimani07        ║
-║               > STATUS: Building. Learning. Shipping.        ║
-╚══════════════════════════════════════════════════════════════╝
-```
 
 </div>
 
