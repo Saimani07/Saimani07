@@ -192,7 +192,7 @@ class SaiManikanta:
 
 <td width="50%" valign="top">
 
-###  🔐 [CyberGPT – Secure AI Chatbot](https://github.com/Saimani07)
+###  🔐 [CyberGPT – Secure AI Chatbot]([https://github.com/Saimani07](https://github.com/Saimani07/CyberGPT-Secure-AI-ChatBot.git))
 > 🤖 Building a ChatGPT Clone — AI-powered conversational platform with modern UI, real-time interaction, and security-focused architecture.
 
 <p align="left">
