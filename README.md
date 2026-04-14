@@ -47,7 +47,7 @@ class SaiManikanta:
     name     = "G Sai Manikanta"
     alias    = "Saimani07"
     base     = "India 🇮🇳"
-    focus    = ["AI/ML", "Web Dev", "DSA"]
+    focus    = ["Cybersecurity", "Web Dev", "DSA"]
     mindset  = "Ship → Learn → Iterate"
     
     def current_mission(self):
@@ -87,8 +87,7 @@ class SaiManikanta:
 
 [![GitHub](https://img.shields.io/badge/GitHub-Saimani07-00F7FF?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Saimani07)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-G_Sai_Manikanta-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117)](https://linkedin.com/in/Saimani07)
-[![Email](https://img.shields.io/badge/Email-Reach_Me-FF007F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:saimani07@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-00F7FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0D1117)](https://github.com/Saimani07)
+[![Email](https://img.shields.io/badge/Email-Reach_Me-FF007F?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:gurramsai2007@gmail.com)
 
 </div>
 
@@ -207,13 +206,17 @@ class SaiManikanta:
 
 <td width="50%" valign="top">
 
-### 🌐 [DevPortfolio Pro](https://github.com/Saimani07)
-> A blazing-fast, dark-themed developer portfolio template with glassmorphism UI, animated sections, and one-click deployment on Vercel.
+### 🔐 CyberGPT – Secure AI Chatbot
 
-![Next.js](https://img.shields.io/badge/-Next.js-00F7FF?style=flat-square&logo=nextdotjs&logoColor=0D1117)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind-8A2BE2?style=flat-square&logo=tailwindcss&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-FF007F?style=flat-square&logo=typescript&logoColor=white)
+> 🤖 Building a ChatGPT Clone — AI-powered conversational platform with modern UI, real-time interaction, and security-focused architecture.
 
+🔗 https://github.com/Saimani07
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js-00F7FF?style=for-the-badge&logo=nextdotjs&logoColor=0D1117"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-8A2BE2?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-00F7FF?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 </td>
 
 </tr>
